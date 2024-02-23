@@ -1,0 +1,118 @@
+.second {
+    margin-left: 13px;
+    margin-right: 13px;
+    gap: 100px;
+}
+
+.main-section {
+    height: 140px;
+    background-color: #242562;
+    border-radius: 20px;
+    padding: 33px 57px 33px 57px;
+}
+
+.wrapper {
+    justify-content: center;
+    gap: 97px;
+}
+
+.searchevent {
+    color: #FFFFFF;
+    gap: 2px;
+}
+
+.evn {
+    font-size: 20px;
+    line-height: 21px;
+    font-weight: 400;
+}
+
+.jazz {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+.hr {
+    width: 300px;
+    border-bottom: 1px solid #E2E8F0;
+}
+
+.location {
+    gap: 3px;
+}
+
+.loca {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #E2E8F0;
+}
+
+.select {
+    font-size: 16px;
+    gap: 50px;
+}
+
+.bttn button {
+    padding: 18px 45px 18px 45px;
+    border-radius: 50px;
+    border: none;
+    background: #F5167E;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 23.44px;
+    cursor: pointer;
+}
+.bttn button:hover{
+    color: #F5167E;
+    background-color: #FFFFFF;
+}
+.upcomingevent {
+    gap: 100px;
+}
+
+.allcontent {
+    justify-content: center;
+    gap: 30px;
+}
+
+.heading h3 {
+    font-size: 30px;
+    color: #242565;
+}
+
+.upcoming-main {
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.card-content {
+    align-items: flex-start;
+    gap: 18px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    color: black;
+}
+.date .apr {
+    font-size: 11px;
+    line-height: 15px;
+    color: #3D37F1;
+}
+
+.date .p {
+    font-size: 28px;
+    line-height: 37px;
+}
+
+.notes .f1 {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.notes .f2 {
+    font-weight: 400;
+    line-height: 21px;
+}
+

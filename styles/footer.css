@@ -1,0 +1,93 @@
+.thirdpage {
+    background-color: #0A075F;
+    padding-top: 40px;
+    padding-left: 12.5px;
+    padding-right: 12.5px;
+}
+
+.part {
+    gap: 20px;
+}
+
+.section1 {
+    gap: 300px;
+    justify-content: space-between;
+}
+
+.section2 {
+    line-height: 22.4px;
+    font-weight: 400;
+    color: #F3F3F3;
+}
+
+.third-content {
+    gap: 160px;
+}
+
+.section3 {
+    gap: 20px;
+    color: #F3F3F3;
+}
+
+h4 {
+    font-size: 18px;
+    line-height: 23.44px;
+    font-weight: 700;
+}
+
+.para {
+    line-height: 22.4px;
+    font-weight: 400;
+}
+
+.mainfooter {
+    justify-content: center;
+    color: #FEFEFE;
+    border-top: 1px solid #4C4D8B;
+}
+
+.footer {
+    height: 47px;
+    font-weight: 400;
+}
+
+.flex {
+    display: flex;
+}
+
+.Dm-Sans {
+    font-family: DMSans;
+}
+
+.proxima {
+    font-family: myFont;
+}
+
+.proximanova {
+    font-family: font;
+}
+
+.AvertaDemo {
+    font-family: newfont;
+}
+
+.center {
+    align-items: center;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+.text-align{
+    text-align: left;
+    font-weight: 700;
+}
+.text-alignn{
+    text-align: center;
+}
+.flex-direction{
+    flex-direction: column;
+}
+.width{
+    width: 50%;
+}
